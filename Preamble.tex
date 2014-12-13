@@ -1,0 +1,46 @@
+%%% Preamble
+\documentclass[a4paper,11pt,twocolumn]{article} %defines what kind of lay-out Latex must create
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+\geometry{a4paper}
+\geometry{top=1.49cm, left = 1cm, right = 1cm, bottom = 1.51cm}
+
+%%% Some usefull/necissary packages
+\usepackage{abstract}
+\usepackage[english]{babel}												% English language/hyphenation
+\usepackage[protrusion=true,expansion=true]{microtype}					% Better typography
+\usepackage{amsmath,amsfonts,amsthm}									% Math packages
+\usepackage[pdftex]{graphicx}											% Enable pdflatex inc. graphicx package
+\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption}		% Custom captions under/above floats
+\usepackage{booktabs}													% Nicer tables
+\usepackage{mathptmx}
+\usepackage{epstopdf}
+\usepackage{subcaption}
+\usepackage{color}
+\usepackage{placeins}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{titling}
+\setlength\columnsep{1cm}
+\setlength{\droptitle}{-1cm}
+%%% Custom sectioning (sectsty package)
+\usepackage{sectsty}													% Custom sectioning (see below)
+\sectionfont{\centering }												% Center the main sections w.r.t. the page
+\renewcommand \thesection{\Roman{section}.}								% Roman section counter.
+
+\subsectionfont{\raggedright}											% Flush all subsections to the left
+\renewcommand \thesubsection{\Alph{subsection}.}						% Alphabetic (capital!) subsection counter
+
+%%% Creating an initial of the very first character of the content
+\usepackage{lettrine}
+\newcommand{\initial}[1]{%
+     \lettrine[lines=2,lhang=0.3,nindent=0em]{{\textsf{#1}}}{}}
+
+
+%%% creating new paragpahs with a white line using a new command!
+\newcommand{\npar}{\par \vspace{2.3ex plus 0.3ex minus 0.3ex}}
+
+%%% Title, author and date, metadata
+\usepackage{titling}													% For custom titles
