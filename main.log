@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  13 DEC 2014 22:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  13 DEC 2014 22:35
 entering extended mode
 **main.tex
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.tex
@@ -451,9 +451,13 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@toks=\toks31
 \enit@inbox=\box59
 \enitdp@description=\count128
-))
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -570,29 +574,89 @@ amData/MiKTeX/2.9/pdftex/config/pdftex.map}
 ])
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Benefits_cognitive.tex))
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_risks.tex
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Risks_physical.tex)
+Underfull \vbox (badness 3579) has occurred while \output is active []
+
+
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Risks_physical.tex
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 2.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Risks_cognitive.tex))
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Authors_opinion.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Recommendations.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Conclusions.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl) [2]
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+
+Underfull \hbox (badness 2189) in paragraph at lines 9--12
+[]\OT1/ptm/m/n/10.95 (+20) Alla Kat-snel-son.  Dna robot could kill can-cer
+ []
+
+) [2] (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
 Here is how much of TeX's memory you used:
- 6795 strings out of 493705
- 104626 string characters out of 3144569
- 219326 words of memory out of 3000000
- 9852 multiletter control sequences out of 15000+200000
- 22779 words of font info for 102 fonts, out of 3000000 for 9000
+ 6985 strings out of 493705
+ 107870 string characters out of 3144569
+ 220476 words of memory out of 3000000
+ 10010 multiletter control sequences out of 15000+200000
+ 31372 words of font info for 124 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,5n,38p,815b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKT
-eX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1
-/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utm
-b8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 60092 bytes).
+ 44i,5n,38p,815b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program File
+s/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helve
+tic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (2 pages, 80861 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 15873 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 19969 words of extra memory for PDF output out of 20736 (max. 10000000)
 

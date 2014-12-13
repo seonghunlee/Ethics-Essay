@@ -11,9 +11,5 @@ I was expecting a `,' or a `}'---line 49 of file mybib.bib
  :  month = {},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Illegal end of database file---line 64 of file mybib.bib
- : }
- :  
-I'm skipping whatever remains of this entry
 Warning--empty publisher in Longman_dic
-(There were 3 error messages)
+(There were 2 error messages)
