@@ -1,5 +1,16 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 The style file: plain.bst
-I found no \citation commands---while reading file main.aux
 Database file #1: mybib.bib
-(There was 1 error message)
+I was expecting a `,' or a `}'---line 37 of file mybib.bib
+ :  
+ :  month = {},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 49 of file mybib.bib
+ :  
+ :  month = {},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty publisher in Longman_dic
+Warning--empty publisher in Ethics_textbook
+(There were 2 error messages)

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  13 DEC 2014 02:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  13 DEC 2014 17:46
 entering extended mode
 **main.tex
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\main.tex
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 68 languages loaded.
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\preamble.tex
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\preamble.tex
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
@@ -452,7 +452,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box59
 \enitdp@description=\count128
 ))
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\main.aux)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
@@ -552,49 +552,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Introduction.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Body_introduction.te
-x) (C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Body_benefits.tex
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Introduction.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_introduction.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_benefits.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Benefits_physical.te
-x)
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Benefits_cognitive.t
-ex)) (C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Body_risks.tex
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Risks_physical.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Risks_cognitive.tex)
-)
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Authors_opinion.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Recommendations.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\Conclusions.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\main.bbl
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Benefits_physical.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Benefits_cognitive.tex))
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_risks.tex
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Risks_physical.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Risks_cognitive.tex))
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Authors_opinion.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Recommendations.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Conclusions.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl [1{C:/ProgramData/MiKTeX
+/2.9/pdftex/config/pdftex.map}
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
+]) [2
 
 ]
-(C:\Users\Seong\Documents\GitHub\Ethics_Essay\Ethics-Essay\main.aux) ) 
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
 Here is how much of TeX's memory you used:
- 6700 strings out of 493705
- 104027 string characters out of 3144569
- 214513 words of memory out of 3000000
- 9843 multiletter control sequences out of 15000+200000
- 17689 words of font info for 47 fonts, out of 3000000 for 9000
+ 6745 strings out of 493705
+ 104064 string characters out of 3144569
+ 217521 words of memory out of 3000000
+ 9852 multiletter control sequences out of 15000+200000
+ 20991 words of font info for 71 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,5n,38p,338b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Progr
-am Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.
-9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
-pfb>
-Output written on main.pdf (1 page, 40377 bytes).
+ 44i,5n,38p,815b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKT
+eX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1
+/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utm
+b8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (2 pages, 55100 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11777 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 15873 words of extra memory for PDF output out of 17280 (max. 10000000)
 
