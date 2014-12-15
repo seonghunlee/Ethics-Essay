@@ -34,13 +34,13 @@
 \renewcommand \thesubsection{\Alph{subsection}.}						% Alphabetic (capital!) subsection counter
 
 %%% Creating an initial of the very first character of the content
-\usepackage{lettrine}
-\newcommand{\initial}[1]{%
-     \lettrine[lines=2,lhang=0.3,nindent=0em]{{\textsf{#1}}}{}}
+%\usepackage{lettrine}
+%\newcommand{\initial}[1]{%
+%     \lettrine[lines=2,lhang=0.3,nindent=0em]{{\textsf{#1}}}{}}
 
 
 %%% creating new paragpahs with a white line using a new command!
-\newcommand{\npar}{\par \vspace{1Sex plus 0.3ex minus 0.3ex}}
+%\newcommand{\npar}{\par \vspace{1Sex plus 0.3ex minus 0.3ex}}
 
 %%% Title, author and date, metadata
 \usepackage{titling}													% For custom titles
@@ -49,5 +49,8 @@
 \setlist{nosep}
 
 \usepackage{parskip}
+\setlength{\parskip}{0.5cm plus0.5cm minus0.5cm}
+
+
 
 \usepackage{url}

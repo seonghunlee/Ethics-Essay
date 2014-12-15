@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  13 DEC 2014 22:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  15 DEC 2014 23:38
 entering extended mode
 **main.tex
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.tex
@@ -419,38 +419,13 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\lettrine\lettrine.sty"
-File: lettrine.sty 2014/09/16 v1.70 (Daniel Flipo)
-\c@DefaultLines=\count124
-\c@DefaultDepth=\count125
-\DefaultFindent=\dimen155
-\DefaultNindent=\dimen156
-\DefaultSlope=\dimen157
-\L@lbox=\box57
-\L@tbox=\box58
-\c@L@lines=\count126
-\c@L@depth=\count127
-\L@Pindent=\dimen158
-\L@Findent=\dimen159
-\L@Nindent=\dimen160
-\L@lraise=\dimen161
-\L@first=\dimen162
-\L@next=\dimen163
-\L@slope=\dimen164
-\L@height=\dimen165
-\LettrineWidth=\dimen166
-\LettrineHeight=\dimen167
-\LettrineDepth=\dimen168
-
-Loading lettrine.cfg
-("C:\Program Files\MiKTeX 2.9\tex\latex\lettrine\lettrine.cfg"))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip60
-\enit@outerparindent=\dimen169
+\enit@outerparindent=\dimen155
 \enit@toks=\toks31
-\enit@inbox=\box59
-\enitdp@description=\count128
+\enit@inbox=\box57
+\enitdp@description=\count124
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
@@ -526,16 +501,16 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count129
-\scratchdimen=\dimen170
-\scratchbox=\box60
-\nofMPsegments=\count130
-\nofMParguments=\count131
+\scratchcounter=\count125
+\scratchdimen=\dimen156
+\scratchbox=\box58
+\nofMPsegments=\count126
+\nofMParguments=\count127
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count132
-\MPscratchDim=\dimen171
-\MPnumerator=\count133
-\makeMPintoPDFobject=\count134
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen157
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
 \everyMPtoPDFconversion=\toks33
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -559,7 +534,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Introduction.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Introduction.tex
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_introduction.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_benefits.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -572,11 +566,15 @@ amData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ])
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Benefits_cognitive.tex))
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Benefits_cognitive.tex [2]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+))
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_risks.tex
-Underfull \vbox (badness 3579) has occurred while \output is active []
-
-
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Risks_physical.tex
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 2.
 
@@ -585,9 +583,9 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
-)
+ [3])
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Risks_cognitive.tex))
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Authors_opinion.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_ethics.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Recommendations.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Conclusions.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl
@@ -638,25 +636,27 @@ Underfull \hbox (badness 2189) in paragraph at lines 9--12
 []\OT1/ptm/m/n/10.95 (+20) Alla Kat-snel-son.  Dna robot could kill can-cer
  []
 
-) [2] (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
+) [4
+
+] (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
 Here is how much of TeX's memory you used:
- 6985 strings out of 493705
- 107870 string characters out of 3144569
- 220476 words of memory out of 3000000
- 10010 multiletter control sequences out of 15000+200000
- 31372 words of font info for 124 fonts, out of 3000000 for 9000
+ 6927 strings out of 493705
+ 106902 string characters out of 3144569
+ 220209 words of memory out of 3000000
+ 9934 multiletter control sequences out of 15000+200000
+ 32324 words of font info for 140 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,5n,38p,815b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program File
-s/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helve
-tic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 80861 bytes).
+ 44i,5n,38p,997b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/Mi
+KTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/
+uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (4 pages, 89959 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  19969 words of extra memory for PDF output out of 20736 (max. 10000000)
 
