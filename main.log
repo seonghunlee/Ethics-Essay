@@ -1,23 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.20)  16 DEC 2014 13:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  16 DEC 2014 14:38
 entering extended mode
 **main.tex
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.tex"
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\preamble.tex"
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\preamble.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -31,22 +22,22 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -62,29 +53,29 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\abstract\abstra
-ct.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\abstract\abstract.sty"
 Package: abstract 2009/06/08 v1.2a configurable abstracts
 \abstitleskip=\skip43
 \absleftindent=\skip44
 \absrightindent=\skip45
 \absparindent=\skip46
 \absparsep=\skip47
-) ("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.sty"
+Package: babel 2014/09/25 3.9l The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
-Language: english 2005/03/30 v3.3o English support from the babel system
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.def"
+File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count90
 \U@D=\dimen111
 )
@@ -92,8 +83,7 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\micro
-type.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks16
 \MT@count=\count91
@@ -102,8 +92,7 @@ LaTeX Info: Redefining \textls on input line 766.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
 \MT@listname@count=\count92
 
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\micro
-type-pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
@@ -112,27 +101,27 @@ LaTeX Info: Redefining \lslig on input line 915.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\micro
-type.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
-)) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen113
 ))
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen114
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count93
@@ -173,15 +162,15 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
-Package: amsthm 2004/08/06 v2.20
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2009/07/02 v2.20.1
 \thm@style=\toks22
 \thm@bodyfont=\toks23
 \thm@headfont=\toks24
@@ -192,27 +181,27 @@ Package: amsthm 2004/08/06 v2.20
 \thm@headsep=\skip54
 \dth@everypar=\toks27
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count105
@@ -220,12 +209,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption
-3.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen124
@@ -238,8 +225,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 )
 \c@ContinuedFloat=\count106
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\bookta
-bs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen131
 \lightrulewidth=\dimen132
@@ -258,7 +244,8 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@thisruleclass=\count109
 \@lastruleclass=\count110
 \@thisrulewidth=\dimen143
-) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -294,28 +281,28 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -324,7 +311,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("d:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -337,32 +324,31 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcapt
-ion.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 \c@subfigure=\count111
 \c@subtable=\count112
-) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 137.
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placei
-ns.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
 Package: placeins 2005/04/18  v 2.2
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen144
 \WF@size=\dimen145
 \c@WF@wrappedlines=\count113
 \WF@box=\box28
 \WF@everypar=\toks28
 Package: wrapfig 2003/01/31  v 3.6
-) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count114
 \float@exts=\toks29
@@ -370,13 +356,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box30
 )
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
-Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2014/08/24 v1.8g multicolumn formatting (FMi)
 \c@tracingmulticols=\count115
 
 
 Package multicol Warning: May not work with the twocolumn option on input line 
-135.
+146.
 
 \mult@box=\box31
 \multicol@leftmargin=\dimen146
@@ -393,6 +379,7 @@ Package multicol Warning: May not work with the twocolumn option on input line
 \multicolbaselineskip=\skip56
 \partial@page=\box32
 \last@line=\box33
+\maxbalancingoverflow=\dimen151
 \mult@rightbox=\box34
 \mult@grightbox=\box35
 \mult@gfirstbox=\box36
@@ -416,41 +403,38 @@ Package multicol Warning: May not work with the twocolumn option on input line
 \@tempa=\box54
 \c@columnbadness=\count121
 \c@finalcolumnbadness=\count122
-\last@try=\dimen151
-\multicolovershoot=\dimen152
-\multicolundershoot=\dimen153
+\last@try=\dimen152
+\multicolovershoot=\dimen153
+\multicolundershoot=\dimen154
 \mult@nat@firstbox=\box55
 \colbreak@box=\box56
-\multicol@sort@counter=\count123
-)
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\titling\titling
-.sty"
+\mc@col@check@num=\count123
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\titling\titling.sty"
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip57
 \thanksmargin=\skip58
 \droptitle=\skip59
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumit
-em.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip60
-\enit@outerparindent=\dimen154
+\enit@outerparindent=\dimen155
 \enit@toks=\toks31
 \enit@inbox=\box57
 \enitdp@description=\count124
-) ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 ))
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.aux")
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
@@ -465,7 +449,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 18.
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -512,22 +496,19 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-pt
-m.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf
-.mkii"
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count125
-\scratchdimen=\dimen155
+\scratchdimen=\dimen156
 \scratchbox=\box58
 \nofMPsegments=\count126
 \nofMParguments=\count127
 \everyMPshowfont=\toks32
 \MPscratchCnt=\count128
-\MPscratchDim=\dimen156
+\MPscratchDim=\dimen157
 \MPnumerator=\count129
 \makeMPintoPDFobject=\count130
 \everyMPtoPDFconversion=\toks33
@@ -537,7 +518,7 @@ Package caption Info: float package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 28.
- ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 Package microtype Info: Loading generic settings for font family
@@ -553,7 +534,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\Introduction.tex"
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Introduction.tex
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
@@ -573,34 +554,35 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 )
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\Body_introduction.tex"
-) ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\physicalCA.tex"
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_introduction.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\physicalCA.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-
-[1{C:/Users/Manan Siddiquee/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 34.
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 36.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
-)
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\cognitiveCA.tex"
-[2]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+ [2])
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\cognitiveCA.tex
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
 
-[3])
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\Recommendations.tex")
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\Conclusions.tex")
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.bbl"
+[3]) (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Recommendations.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Conclusions.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -608,7 +590,7 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
 .
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 Package microtype Info: Loading generic settings for font family
@@ -618,27 +600,25 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
 .
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
 .
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
 .
 
-("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-ms
-a.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-("C:\Users\Manan Siddiquee\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-ms
-b.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
@@ -652,24 +632,23 @@ Underfull \hbox (badness 2189) in paragraph at lines 9--12
 
 ) [4
 
-] ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.aux") ) 
+] (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
 Here is how much of TeX's memory you used:
- 6800 strings out of 493921
- 106536 string characters out of 3144846
- 211104 words of memory out of 3000000
- 9794 multiletter control sequences out of 15000+200000
- 32443 words of font info for 142 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 44i,5n,38p,997b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
-{d:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<d:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><d:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/urw/times/utmb8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/urw/times/utmr8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/tim
-es/utmri8a.pfb>
-Output written on main.pdf (4 pages, 89471 bytes).
+ 6919 strings out of 493705
+ 106241 string characters out of 3144569
+ 219209 words of memory out of 3000000
+ 9935 multiletter control sequences out of 15000+200000
+ 32562 words of font info for 144 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 44i,5n,38p,997b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/Mi
+KTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/
+uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (4 pages, 90088 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
