@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  16 DEC 2014 15:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  30 DEC 2014 01:43
 entering extended mode
 **main.tex
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.tex
@@ -554,30 +554,28 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 )
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_introduction.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\physicalCA.tex
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_introduction.tex [1{C:/Progr
+amData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+])
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_benefits.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
- [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_risks.tex [2]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
- [2])
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\cognitiveCA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-[3]) (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Recommendations.tex)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_ethics.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Recommendations.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Conclusions.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl
 Package microtype Info: Loading generic settings for font family
@@ -627,15 +625,15 @@ Underfull \hbox (badness 2189) in paragraph at lines 9--12
 []\OT1/ptm/m/n/10.95 (+20) Alla Kat-snel-son.  Dna robot could kill can-cer
  []
 
-) [4] (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
+) [3] (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
 Here is how much of TeX's memory you used:
- 6916 strings out of 493705
- 106214 string characters out of 3144569
- 220209 words of memory out of 3000000
- 9935 multiletter control sequences out of 15000+200000
- 32443 words of font info for 142 fonts, out of 3000000 for 9000
+ 6906 strings out of 493705
+ 106237 string characters out of 3144569
+ 219209 words of memory out of 3000000
+ 9934 multiletter control sequences out of 15000+200000
+ 31967 words of font info for 134 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,5n,38p,1000b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,5n,38p,990b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program File
 s/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
@@ -643,9 +641,9 @@ ublic/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helve
 tic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 90177 bytes).
+Output written on main.pdf (3 pages, 84140 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  19969 words of extra memory for PDF output out of 20736 (max. 10000000)
 
