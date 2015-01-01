@@ -6,10 +6,11 @@ I was expecting a `,' or a `}'---line 37 of file mybib.bib
  :  month = {},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 49 of file mybib.bib
+I was expecting a `,' or a `}'---line 50 of file mybib.bib
  :  
  :  month = {},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--empty publisher in Longman_dic
+Warning--empty publisher in Ethics_textbook
 (There were 2 error messages)

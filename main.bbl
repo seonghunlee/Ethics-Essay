@@ -5,9 +5,14 @@ Pearson Education.
 \newblock {\em Longman Dictionary of Contemporary English}.
 \newblock 2007.
 
+\bibitem{Ethics_textbook}
+{Ibo van de Poel, Lamber Royakkers}.
+\newblock {\em Ethics, Technology, and Engineering - An Introduction}.
+\newblock 2011.
+
 \bibitem{nanorobot}
 Alla Katsnelson.
-\newblock Dna robot could kill cancer cells.
+\newblock {DNA robot could kill cancer cells}.
 \newblock \url{http://www.cs.york.ac.uk/hise/cadiz/home.html}, 2012.
 
 \end{thebibliography}

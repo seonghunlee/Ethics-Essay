@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  31 DEC 2014 17:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  1 JAN 2015 20:18
 entering extended mode
 **main.tex
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.tex
@@ -429,11 +429,48 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
-))
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty"
+Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count125
+)
+\etb@tempcnta=\count126
+)
+\csq@reset=\count127
+\csq@gtype=\count128
+\csq@glevel=\count129
+\csq@qlevel=\count130
+\csq@maxlvl=\count131
+\csq@tshold=\count132
+\csq@ltx@everypar=\toks32
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.def"
+File: csquotes.def 2011/10/22 v5.1d csquotes generic definitions
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg"
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+Package csquotes Info: Redefining alias 'english' -> 'english/american'.
+)
+Package csquotes Info: Allocating character ".
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -501,22 +538,23 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count125
+\scratchcounter=\count133
 \scratchdimen=\dimen156
 \scratchbox=\box58
-\nofMPsegments=\count126
-\nofMParguments=\count127
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count128
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count136
 \MPscratchDim=\dimen157
-\MPnumerator=\count129
-\makeMPintoPDFobject=\count130
-\everyMPtoPDFconversion=\toks33
+\MPnumerator=\count137
+\makeMPintoPDFobject=\count138
+\everyMPtoPDFconversion=\toks34
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
+Package csquotes Info: Making character " active on input line 18.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 28.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -574,15 +612,15 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
 )
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_ethics.tex)
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_ethics.tex [3])
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Recommendations.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Conclusions.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl [3]
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl [4]
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 16
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
@@ -592,19 +630,19 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 16
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 16
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 16
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
@@ -617,25 +655,25 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 
-Underfull \hbox (badness 2189) in paragraph at lines 9--12
-[]\OT1/ptm/m/n/10.95 (+20) Alla Kat-snel-son.  Dna robot could kill can-cer
+Underfull \hbox (badness 1400) in paragraph at lines 14--17
+[]\OT1/ptm/m/n/10.95 (+20) Alla Kat-snel-son.  DNA robot could kill can-cer
  []
 
-) [4
+) [5
 
 ] (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
 Here is how much of TeX's memory you used:
- 6926 strings out of 493705
- 106411 string characters out of 3144569
- 220209 words of memory out of 3000000
- 9936 multiletter control sequences out of 15000+200000
- 32681 words of font info for 146 fonts, out of 3000000 for 9000
+ 7808 strings out of 493705
+ 118933 string characters out of 3144569
+ 245148 words of memory out of 3000000
+ 10798 multiletter control sequences out of 15000+200000
+ 32916 words of font info for 149 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,6n,38p,1216b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,6n,38p,1243b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
@@ -643,9 +681,9 @@ c/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/
 uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 89012 bytes).
+Output written on main.pdf (5 pages, 95389 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  19969 words of extra memory for PDF output out of 20736 (max. 10000000)
 
