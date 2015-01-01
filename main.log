@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  30 DEC 2014 02:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.21)  31 DEC 2014 17:44
 entering extended mode
 **main.tex
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.tex
@@ -563,8 +563,8 @@ amData/MiKTeX/2.9/pdftex/config/pdftex.map}
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
-)
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+ [2])
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_risks.tex
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 6.
 
@@ -573,11 +573,11 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
- [2])
+)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Body_ethics.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Recommendations.tex)
 (C:\Users\Seong\Documents\GitHub\Ethics-Essay\Conclusions.tex)
-(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl
+(C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.bbl [3]
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -625,17 +625,17 @@ Underfull \hbox (badness 2189) in paragraph at lines 9--12
 []\OT1/ptm/m/n/10.95 (+20) Alla Kat-snel-son.  Dna robot could kill can-cer
  []
 
-) [3
+) [4
 
 ] (C:\Users\Seong\Documents\GitHub\Ethics-Essay\main.aux) ) 
 Here is how much of TeX's memory you used:
- 6915 strings out of 493705
- 106315 string characters out of 3144569
- 219209 words of memory out of 3000000
- 9934 multiletter control sequences out of 15000+200000
- 32324 words of font info for 140 fonts, out of 3000000 for 9000
+ 6926 strings out of 493705
+ 106411 string characters out of 3144569
+ 220209 words of memory out of 3000000
+ 9936 multiletter control sequences out of 15000+200000
+ 32681 words of font info for 146 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,5n,38p,990b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,6n,38p,1216b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
@@ -643,9 +643,9 @@ c/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/
 uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 83939 bytes).
+Output written on main.pdf (4 pages, 89012 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  19969 words of extra memory for PDF output out of 20736 (max. 10000000)
 
