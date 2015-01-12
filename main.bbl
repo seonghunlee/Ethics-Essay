@@ -10,9 +10,21 @@ Pearson Education.
 \newblock {\em Ethics, Technology, and Engineering - An Introduction}.
 \newblock 2011.
 
+\bibitem{retinal_implant}
+Jr~John L.~Wyatt.
+\newblock {The Retinal Implant Project}.
+\newblock \url{http://www.rle.mit.edu/media/pr151/19.pdf}, 2009.
+
 \bibitem{nanorobot}
 Alla Katsnelson.
 \newblock {DNA robot could kill cancer cells}.
 \newblock \url{http://www.cs.york.ac.uk/hise/cadiz/home.html}, 2012.
+
+\bibitem{prosthetic_arm}
+Mariella Moon.
+\newblock {DARPA developing muscle-controlled prosthetic limbs that can feel}.
+\newblock
+  \url{http://www.engadget.com/2013/05/30/darpa-muscle-controlled-prosthetic-limb/},
+  May 2013.
 
 \end{thebibliography}
