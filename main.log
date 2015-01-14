@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.20)  14 JAN 2015 10:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.20)  14 JAN 2015 10:58
 entering extended mode
 **main.tex
 ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.tex"
@@ -613,7 +613,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 
 [2]) ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\Body_risks.tex")
 ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\Body_ethics.tex"
-[3]) [4]
+[3])
 ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\Recommendations.tex"
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 8.
 
@@ -622,7 +622,7 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
-
+ [4]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 13.
@@ -644,20 +644,16 @@ Package pdftex.def Info: prothesis_eye.png used on input line 22.
 (pdftex.def)             Requested size: 170.71652pt x 135.99927pt.
 )
 ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\Conclusions.tex")
-[5 <F:/Users/Manan Siddiquee/Documents/GitHub/Ethics-Essay/prothesis_arm.png> <
-F:/Users/Manan Siddiquee/Documents/GitHub/Ethics-Essay/prothesis_eye.png>]
-("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.bbl"
-Underfull \hbox (badness 1460) in paragraph at lines 25--28
-\OT1/ptm/m/it/10.95 (+20) Sci-ence and En-gi-neer-ing Ethics\OT1/ptm/m/n/10.95 
-(+20) , 15(3):311--341,
- []
-
+("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.bbl" [5 <F:/Users
+/Manan Siddiquee/Documents/GitHub/Ethics-Essay/prothesis_arm.png> <F:/Users/Man
+an Siddiquee/Documents/GitHub/Ethics-Essay/prothesis_eye.png>]
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 47
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 42
 .
+
 ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -665,19 +661,19 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 47
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 42
 .
 
 ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 47
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 42
 .
 
 ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 47
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 42
 .
 
 ("d:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
@@ -692,59 +688,61 @@ b.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--48
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
 $\OT1/cmtt/m/n/10.95 / / www . rle . mit . edu / media / pr151 / 19 . pdf$\OT1/
 ptm/m/n/10.95 (+20) ,
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 60--65
+Underfull \hbox (badness 3635) in paragraph at lines 55--60
 []\OT1/ptm/m/n/10.95 (+20) Mariella Moon.  DARPA de-vel-op-ing muscle-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
 \OT1/ptm/m/n/10.95 (+20) controlled pros-thetic limbs that can feel.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
 $\OT1/cmtt/m/n/10.95 http : / / www . engadget . com / 2013 / 05 / 30 /$
  []
 
 
-Overfull \hbox (0.90428pt too wide) in paragraph at lines 60--65
+Overfull \hbox (0.90428pt too wide) in paragraph at lines 55--60
 $\OT1/cmtt/m/n/10.95 darpa-[]muscle-[]controlled-[]prosthetic-[]limb/$\OT1/ptm/
 m/n/10.95 (-20) ,
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 85--89
+Underfull \hbox (badness 1147) in paragraph at lines 80--84
 \OT1/ptm/m/n/10.95 (+20) Nayagam, Christo-pher E Williams, and Pe-ter J
  []
 
-) [6] ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.aux") ) 
+) [6
+
+] ("F:\Users\Manan Siddiquee\Documents\GitHub\Ethics-Essay\main.aux") ) 
 Here is how much of TeX's memory you used:
- 7751 strings out of 493921
- 120408 string characters out of 3144846
- 235062 words of memory out of 3000000
- 10690 multiletter control sequences out of 15000+200000
- 36038 words of font info for 165 fonts, out of 3000000 for 9000
+ 7753 strings out of 493921
+ 120410 string characters out of 3144846
+ 235057 words of memory out of 3000000
+ 10689 multiletter control sequences out of 15000+200000
+ 36157 words of font info for 167 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  44i,6n,38p,1298b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
-{d:/
-Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<d:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><d:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/urw/times/utmr8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
-/times/utmri8a.pfb>
-Output written on main.pdf (6 pages, 571100 bytes).
+{d:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<d:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><d:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/urw/times/utmb8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmr8a.pfb><d:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/tim
+es/utmri8a.pfb>
+Output written on main.pdf (6 pages, 569690 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
